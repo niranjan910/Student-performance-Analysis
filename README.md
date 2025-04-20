@@ -20,3 +20,8 @@ This project explores key factors influencing student performance (e.g., exam sc
 ## 📂 Dataset
 - Sample dataset included in `/data` (e.g., `StudentPerformance.csv`)
 - Common features: `Math Score`, `Reading Score`, `Attendance`, `Parental Education`, etc.
+
+  ## 📬 Contact
+For queries or collaborations:
+- **Email**: [niranjan991100@gmail.com]
+- **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
