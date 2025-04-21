@@ -3,7 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-yellowgreen)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-blueviolet) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-blueviolet)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-lightblue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentation-red)
 
 A data-driven project to analyze and predict student academic performance using Python, EDA, and Machine Learning.
 
