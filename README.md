@@ -8,6 +8,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentation-red)
 
+
 A data-driven project to analyze and predict student academic performance using Python, EDA, and Machine Learning.
 
 ## 📌 Overview
