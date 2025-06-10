@@ -1,6 +1,6 @@
 # Student Performance Analysis & Predictive Modeling
 
-**Author:** Niru  
+**Author:** Niranjan
 **Date:** 20 May 2025
 
 ---
